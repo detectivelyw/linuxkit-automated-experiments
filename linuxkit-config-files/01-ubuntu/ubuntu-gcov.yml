@@ -1,0 +1,59 @@
+kernel:
+  image: linuxkit/kernel:4.14.24-ebb7528d3bf7866db6ed0bf75688bcc76706cedc-dirty-amd64
+  cmdline: "console=tty0 console=ttyS0 console=ttyAMA0 console=ttysclp0"
+init:
+  - linuxkit/init:b212cfeb4bb6330e0a7547d8010fe2e8489b677a
+  - linuxkit/runc:7c39a68490a12cde830e1922f171c451fb08e731
+  - linuxkit/containerd:37e397ebfc6bd5d8e18695b121166ffd0cbfd9f0
+  - linuxkit/ca-certificates:v0.2
+  - linuxkit/getty:v0.2
+onboot:
+  - name: sysctl
+    image: linuxkit/sysctl:v0.2
+  - name: dhcpcd
+    image: linuxkit/dhcpcd:v0.2
+    command: ["/sbin/dhcpcd", "--nobackground", "-f", "/dhcpcd.conf", "-1"]
+onshutdown:
+  - name: shutdown
+    image: busybox:latest
+    command: ["/bin/echo", "so long and thanks for all the fish"]
+services:
+  - name: rngd
+    image: linuxkit/rngd:v0.2
+  - name: ubuntu
+    image: ubuntu:18.04
+    capabilities:
+     - all
+    binds:
+     - /etc/resolv.conf:/etc/resolv.conf
+     - /sys:/sys
+     - /run:/run
+     - /root/linuxkit-script:/root/linuxkit-script
+     - /root/ubuntu-script:/root/ubuntu-script
+     - /root/.ssh/id_rsa:/root/.ssh/id_rsa
+     - /hello-world.c:/hello-world.c
+     - /hello-world.py:/hello-world.py
+    command: ["sh", "-c", "sleep infinity"]
+files:
+  - path: /root/.profile
+    source: "/home/detectivelyw/Documents/projects/tracks/popular-paths-scripts/bash_profile_root"
+    mode: "0777"
+  - path: /root/.ssh/id_rsa
+    source: "/home/detectivelyw/.ssh/id_rsa"
+    mode: "0600"
+  - path: /root/linuxkit-script
+    source: "/home/detectivelyw/Documents/projects/tracks/popular-paths-scripts/linuxkit-script-test.sh"
+    mode: "0777"
+  - path: /root/ubuntu-script
+    source: "/home/detectivelyw/Documents/projects/tracks/popular-paths-scripts/ubuntu-script.sh"
+    mode: "0777"
+  - path: /hello-world.c
+    source: "/home/detectivelyw/Documents/projects/tracks/popular-paths-scripts/hello-world.c"
+    mode: "0666"
+  - path: /hello-world.py
+    source: "/home/detectivelyw/Documents/projects/tracks/popular-paths-scripts/hello-world.py"
+    mode: "0666"
+trust:
+  org:
+    - linuxkit
+    - library
