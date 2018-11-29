@@ -1,5 +1,4 @@
-First arg: hello-world
-Second arg: 50
+iteration hello-world
 1 0.996260
 2 0.996300
 3 0.997340
