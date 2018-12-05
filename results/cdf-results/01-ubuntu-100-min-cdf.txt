@@ -1,4 +1,4 @@
-iteration 01-ubuntu-min
+iteration ubuntu
 1 0.990930
 2 0.991480
 3 0.991940
