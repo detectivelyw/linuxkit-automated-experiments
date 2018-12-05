@@ -1,5 +1,4 @@
-First arg: ubuntu
-Second arg: 100
+iteration 01-ubuntu-min
 1 0.990930
 2 0.991480
 3 0.991940
