@@ -1,0 +1,11 @@
+#!/bin/bash
+python generate_cdf_results_remove_all_areas.py memcached 100
+python generate_cdf_results_remove_all_areas.py mongo 100
+python generate_cdf_results_remove_all_areas.py mysql 100
+python generate_cdf_results_remove_all_areas.py nginx 100
+python generate_cdf_results_remove_all_areas.py node 100
+python generate_cdf_results_remove_all_areas.py openjdk 100
+python generate_cdf_results_remove_all_areas.py php 100
+python generate_cdf_results_remove_all_areas.py python 100
+python generate_cdf_results_remove_all_areas.py redis 100
+python generate_cdf_results_remove_all_areas.py traefik 100

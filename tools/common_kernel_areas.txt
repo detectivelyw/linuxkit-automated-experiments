@@ -1,0 +1,618 @@
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/net/neighbour.h: 288
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/cgroup/freezer.c: 73
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/khugepaged.c: 1227
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/cgroup/freezer.c: 65
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/freezer.c: 54
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/cgroup/freezer.c: 70
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/khugepaged.c: 481
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/khugepaged.c: 1226
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/net/core/neighbour.c: 545
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/net/core/neighbour.c: 547
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/freezer.c: 42
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/freezer.c: 40
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/freezer.c: 51
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/khugepaged.c: 1237
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/freezer.c: 45
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/freezer.h: 39
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/khugepaged.c: 480
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/freezer.c: 48
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/khugepaged.c: 471
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/khugepaged.c: 1236
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 568
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 467
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 552
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 501
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 559
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 566
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 570
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 576
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 572
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 318
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 517
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 523
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 360
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 507
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 314
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 515
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 574
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 419
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 555
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 557
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 423
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 526
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 149
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 315
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 350
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 141
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 426
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 600
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 302
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 567
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 468
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 602
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 355
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 495
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 573
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 504
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 321
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 359
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 514
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 307
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 520
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 563
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/include/asm/atomic64_64.h: 164
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 160
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/asm-generic/atomic-long.h: 125
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 236
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 164
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 226
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 235
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/include/asm/atomic64_64.h: 162
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 199
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 254
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 213
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 201
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 269
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 195
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 233
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 215
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 192
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 250
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 272
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 249
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 259
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 286
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 219
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 255
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 198
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 163
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 209
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 183
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 273
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 212
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 230
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 232
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 238
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 284
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 260
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 241
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 202
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 262
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 218
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/rwsem-xadd.c: 251
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 967
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/sched/core.c: 5030
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 956
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/sched/wait.c: 171
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1002
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 922
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1108
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1029
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 983
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 987
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 992
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1005
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 934
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 997
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 985
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1175
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 901
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 895
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 869
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/sched/core.c: 5026
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/sched/wait.c: 172
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 903
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 931
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 923
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/sched/core.c: 5031
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 905
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 976
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1001
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 909
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1019
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 915
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/pagemap.h: 479
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 986
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1172
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 984
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1170
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1174
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 912
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/sched/wait.c: 168
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 932
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/mm/filemap.c: 1006
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/sched/core.c: 5033
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/pid.c: 434
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/pid.c: 432
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1105
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 443
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1125
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 180
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1167
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 154
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 175
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 146
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 449
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/exit.c: 904
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1145
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 174
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1157
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1099
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1153
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 225
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1147
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 221
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1129
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1126
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 176
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1151
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 227
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 441
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/exit.c: 573
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 152
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1095
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 162
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/pid.c: 433
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 445
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1098
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1104
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 138
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 163
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 212
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/pid.c: 429
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 216
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1154
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 153
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 174
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1143
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 448
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 143
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1156
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 178
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1144
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1142
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 173
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 170
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1077
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 438
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1150
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/exit.c: 572
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 226
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1128
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1148
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 177
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 222
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1164
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/exit.c: 113
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 446
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/fs/exec.c: 1169
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 191
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/include/linux/rculist.h: 444
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/block/blk-ioc.c: 192
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/exit.c: 129
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2503
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2453
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2252
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2513
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2422
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2172
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2829
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2493
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2517
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 717
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2171
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2838
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2840
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2492
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2452
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2428
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2852
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2433
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2522
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2887
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2885
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2510
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2169
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2436
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2431
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 718
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2425
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2504
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2515
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2176
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2253
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2174
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2449
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2524
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/workqueue.c: 2479
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 715
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 717
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 403
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 772
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 770
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 360
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 389
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 387
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 713
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 720
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 378
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 376
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 775
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 714
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 716
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 93
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 196
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 437
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 540
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 198
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 195
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 430
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 96
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 193
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 424
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 194
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 852
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 199
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 204
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 1066
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 547
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 181
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 539
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 442
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 457
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 385
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 383
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 391
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 367
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 384
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 704
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 375
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/arch/x86/kernel/tsc.c: 723
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 93
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 196
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 437
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 540
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 198
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 195
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 430
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 96
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 193
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 424
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 194
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 852
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 199
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 204
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 1066
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 547
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 181
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 539
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 442
+
+SF:/home/detectivelyw/Documents/projects/tracks/linux-stable/kernel/locking/mutex.c: 457
+
